@@ -1,0 +1,45 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+li{
+    display: inline;
+    color: gray;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+.box{
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 200px;
+}
+.dishes{
+    display: inline-block;
+    padding-top: 10px;
+}
+h4{
+    display: inline-block;
+    color: white;
+    background-color: black;
+    padding: 3px;
+    margin: 5px;
+}
+.contact{
+    color: white;
+    background-color: black;
+    margin-top: 10px;
+    padding-bottom: 5%;
+}
+.h3{
+    display: inline;
+}
